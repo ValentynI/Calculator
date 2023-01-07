@@ -3,7 +3,8 @@ import math
 a = 0
 while a == 0:
 
-    method = input("Write method(-, +, *, / or sqrt = square root, squ = square, sin = math.sin, tan = math.tan, rdg = math.floor)")
+    method = input(
+        "Write method(-, +, *, / or sqrt = square root, squ = square, sin = math.sin, tan = math.tan, rdg = math.floor)")
 
 
     def simple():
